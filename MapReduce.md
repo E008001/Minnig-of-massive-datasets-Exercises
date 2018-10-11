@@ -21,4 +21,5 @@ Reduce function: Key list is output.
 ### (d)**The count of the number of distinct integers in the input.**
 Map function: It takes input and returns (key= input, value= input) for each entry.
 Reduce function: Number of distinct integers:
-![F2](https://github.com/E008001/Minnig-of-massive-datasets-Exercises/blob/master/f2.png)
+
+[logo]:(https://github.com/E008001/Minnig-of-massive-datasets-Exercises/blob/master/f2.png)
