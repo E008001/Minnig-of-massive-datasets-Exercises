@@ -9,7 +9,7 @@ Reduce function: Map Function send all inputs with key=1 thus Reduce Function ne
 - - - -
 
 ### (b) **The average of all the integers.**
-Map function: It takes input and return (key=1, value= (w,a)), where w is weight and a is average.
+Map function: It takes input and return (key=1, value= (w,a)), where w is weight of chunk list and a is average.
 
 Reduce function: Calculate weighted average on value list where the key is fixed:
 
