@@ -22,7 +22,7 @@ Map function: It takes input and returns (key= input, value= input) for each ent
 Reduce function: Key list is output.
 - - - -
 
-### (d)**The count of the number of distinct integers in the input.**
+### (d) **The count of the number of distinct integers in the input.**
 Map function: It takes input and returns (key= input, value= input) for each entry.
 
 Reduce function: Number of distinct integers:
