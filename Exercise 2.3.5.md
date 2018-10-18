@@ -6,4 +6,8 @@ and b < c. Give a map-reduce implementation of this operation, assuming R and S 
 # solution
 
 ### Map Function
-For each tuple (a,b) of R, the key-value is (R, (a,b)). For each tuple (c,d) of S, the key-value is (S,(c,d)) 
+For each tuple (a,b) of R, the key-value is (R,(a,b)). For each tuple (c,d) of S, the key-value is (S,(c,d)) 
+
+### Reduce Function
+take values of Maptask and if b<c then return (a,b,c,d) 
+
