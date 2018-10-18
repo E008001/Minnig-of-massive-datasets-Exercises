@@ -1,4 +1,4 @@
-# Exercise 2.3.5: #
+# Exercise 2.3.5:
 
 The relational-algebra operation R(A,B) ⊲⊳ B<C S(C,D) produces all tuples (a,b,c,d) 
 such that tuple (a,b) is in relation R, tuple (c,d) is in S,
